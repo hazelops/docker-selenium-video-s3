@@ -1,3 +1,6 @@
+# ⚠️This repository is not maintained⚠️
+# ⚠️This repository is outdated and deprecated⚠️
+
 # Selenium Video S3 Docker Image
 
 This image is based on the official selenium-video image, but it adds aws cli and logic to upload sessions to s3.
